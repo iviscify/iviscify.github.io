@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://iviscify.github.io/sitemap.html.gz
+Sitemap: https://iviscify.github.io/app/sitemap.html.gz
+Sitemap: https://iviscify.github.io/assets/sitemap.html.gz
+Sitemap: https://iviscify.github.io/css/sitemap.html.gz
+Sitemap: https://iviscify.github.io/includes/sitemap.html.gz
+Sitemap: https://iviscify.github.io/item/sitemap.html.gz
+Sitemap: https://iviscify.github.io/src/sitemap.html.gz
